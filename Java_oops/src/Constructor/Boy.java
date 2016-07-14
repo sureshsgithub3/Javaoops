@@ -12,10 +12,12 @@ public class Boy extends Human{
 	 * child class constructor
 	 * 
 	 */
+
 	
 	Boy(){
+		
 		//here we are overriding s2 value in the child class constructor
-		s2="child class";
+		s2="child/boy class class";
 	}
 	
 	public void print(){
